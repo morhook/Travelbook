@@ -176,7 +176,7 @@
 		<dependency>
 			<groupId>javax.faces</groupId>
 			<artifactId>jsf-impl</artifactId>
-			<version>1.2_08</version>
+			<version>1.2_04-p02</version>
 			<!--<scope>provided</scope>
 		-->
 		</dependency>
